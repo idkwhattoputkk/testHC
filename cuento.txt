@@ -1,0 +1,4 @@
+Habia una  vez un estudiante del curso de herramientas computacionales que intento hacer un
+cuento para su clase sin tener mucho extito, al ver esto el estudiante decide crear un cuento 
+usando puro "dummy text" como lo vio en una de sus clases.
+
